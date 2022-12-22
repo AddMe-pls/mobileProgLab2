@@ -9,7 +9,7 @@ import android.widget.SeekBar
 import android.widget.TextView
 import android.widget.Toast
 
-class task5 : AppCompatActivity() {
+class   task5 : AppCompatActivity() {
     private lateinit var mediaPlayer: MediaPlayer
     private lateinit var runnable: Runnable
     private var handler: Handler = Handler()
